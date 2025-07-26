@@ -19,7 +19,7 @@ public class RegalCinemas {
     public static void main(String[] args)
     {
 
-
+        System.out.println("-- Welcome to my Theatre Project--");
         System.out.println(textColorGreen + " Hello" + reset);
         char[][] tempSeat1 = new char[15][13];
         char[][] tempSeat2 = new char[15][13];
